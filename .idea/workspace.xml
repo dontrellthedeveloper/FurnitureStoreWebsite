@@ -37,27 +37,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="232" />
-          <entry key="html" value="270" />
+          <entry key="css" value="238" />
+          <entry key="html" value="272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="232" />
-          <entry key="HTML" value="270" />
+          <entry key="CSS" value="238" />
+          <entry key="HTML" value="272" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.33578432">
+    <splitter split-orientation="horizontal" split-proportion="0.4188352">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="284">
-                  <caret line="217" column="69" lean-forward="true" selection-start-line="217" selection-start-column="69" selection-end-line="217" selection-end-column="69" />
+                <state relative-caret-position="-76">
+                  <caret line="224" lean-forward="true" selection-start-line="224" selection-end-line="224" />
                 </state>
               </provider>
             </entry>
@@ -69,8 +69,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="449">
-                  <caret line="513" lean-forward="true" selection-start-line="513" selection-end-line="513" />
+                <state relative-caret-position="254">
+                  <caret line="584" column="1" lean-forward="true" selection-start-line="584" selection-start-column="1" selection-end-line="584" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -150,19 +150,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549341287942</updated>
-      <workItem from="1549341289147" duration="8623000" />
+      <workItem from="1549341289147" duration="9125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8623000" />
+    <option name="totallyTimeSpent" value="9125000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1440" y="180" width="900" height="900" extended-state="6" />
+    <frame x="-1440" y="180" width="891" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07167236" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.072413795" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -189,15 +189,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="217" column="69" lean-forward="true" selection-start-line="217" selection-start-column="69" selection-end-line="217" selection-end-column="69" />
+        <state relative-caret-position="-76">
+          <caret line="224" lean-forward="true" selection-start-line="224" selection-end-line="224" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="513" lean-forward="true" selection-start-line="513" selection-end-line="513" />
+        <state relative-caret-position="254">
+          <caret line="584" column="1" lean-forward="true" selection-start-line="584" selection-start-column="1" selection-end-line="584" selection-end-column="1" />
         </state>
       </provider>
     </entry>
