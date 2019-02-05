@@ -36,27 +36,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="240" />
-          <entry key="html" value="337" />
+          <entry key="css" value="243" />
+          <entry key="html" value="341" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="240" />
-          <entry key="HTML" value="337" />
+          <entry key="CSS" value="243" />
+          <entry key="HTML" value="341" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4188352">
+    <splitter split-orientation="horizontal" split-proportion="0.62817794">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="387">
-                  <caret line="256" column="26" lean-forward="true" selection-start-line="256" selection-start-column="26" selection-end-line="256" selection-end-column="26" />
+                <state relative-caret-position="750">
+                  <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
                 </state>
               </provider>
             </entry>
@@ -68,8 +68,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="359">
-                  <caret line="656" column="19" lean-forward="true" selection-start-line="656" selection-start-column="19" selection-end-line="656" selection-end-column="19" />
+                <state relative-caret-position="172">
+                  <caret line="658" lean-forward="true" selection-start-line="658" selection-end-line="658" />
                 </state>
               </provider>
             </entry>
@@ -84,8 +84,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -149,12 +149,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549341287942</updated>
-      <workItem from="1549341289147" duration="9518000" />
+      <workItem from="1549341289147" duration="10249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9518000" />
+    <option name="totallyTimeSpent" value="10249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1440" y="180" width="1028" height="900" extended-state="6" />
@@ -186,17 +186,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="656" column="19" lean-forward="true" selection-start-line="656" selection-start-column="19" selection-end-line="656" selection-end-column="19" />
+        <state relative-caret-position="750">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="256" column="26" lean-forward="true" selection-start-line="256" selection-start-column="26" selection-end-line="256" selection-end-column="26" />
+        <state relative-caret-position="172">
+          <caret line="658" lean-forward="true" selection-start-line="658" selection-end-line="658" />
         </state>
       </provider>
     </entry>
